@@ -18,7 +18,7 @@ mp_maxrounds 10
 mp_playercashawards 0
 mp_playerid 2
 mp_playerid_delay 0.1
-mp_playerid_hold 0.3
+mp_playerid_hold 0.32
 mp_radar_showall 0
 mp_roundtime 5
 mp_startmoney 0
